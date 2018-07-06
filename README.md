@@ -13,6 +13,7 @@
      }
    }
    * Feel free to add more keys in the same format with a comma at the end to make sure you have multiple keys entered!
+   * Also make sure that any new key you create has "FALSE" next to it in all uppercase!
 2. Create a firebase project
 3. Click on Database -> Realtime Database
 4. Click on the three dots on the top right, click import json and import the json created in step one
