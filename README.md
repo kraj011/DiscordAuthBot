@@ -1,5 +1,5 @@
 # DISCORD AUTH BOT
-### BY: DYNX (@kraj011)
+### BY: DYNX (@DynxSZN)
 
 #### SETUP
 
@@ -30,4 +30,4 @@
 14. Go into App.java and replace the following things:
   * Read the comments (the lines in green) and make the necessary changes to the code
 
-### ENJOY :D FEEL FREE TO PM ME ON TWITTER @kraj011 IF YOU NEED ANY HELP!
+### ENJOY :D FEEL FREE TO PM ME ON TWITTER @DynxSZN IF YOU NEED ANY HELP!
