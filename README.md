@@ -30,5 +30,7 @@
   * Ref.java contains your token
 14. Go into App.java and replace the following things:
   * Read the comments (the lines in green) and make the necessary changes to the code
+15. Now go into Ref.java and set the token equal to the bot token you copied earlier (step 12)
+16. Run the program and dm the bot to test it out!
 
 ### ENJOY :D FEEL FREE TO PM ME ON TWITTER @DynxSZN IF YOU NEED ANY HELP!
