@@ -1,6 +1,8 @@
 # DISCORD AUTH BOT
 ### BY: DYNX (@DynxSZN)
 
+#### Please note: This was one of my first java projects using the JDA3 (the discord api wrapper for java) and I will no longer be maintaining it. If you need any support please contact me on twitter. 
+
 #### SETUP
 
 ###### BEFORE WE START, MAKE SURE YOU HAVE ATLEAST THE JDK8 INSTALLED! ALSO MAKE SURE YOU HAVE A JAVA IDE (SUCH AS ECLIPSE) INSTALLED!
